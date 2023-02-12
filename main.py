@@ -14,8 +14,6 @@ from exeption import *
 
 
 # TELEGRAM_API_TOKEN = os.getenv("TELEGRAM_API_TOKEN")
-TELEGRAM_API_TOKEN = "5766867317:AAGhhuGI1KoiT2BiCOkzmkse3v3fudsybIs"
-# Your user ID: 1041994618
 TELEGRAM_API_TOKEN = ""
 
 
